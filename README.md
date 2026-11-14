@@ -191,9 +191,11 @@ All test executions are captured as high-resolution screenshots in the [`testrun
 d:\ML_PROJECTS\DBMS_PROJECT\
 │
 ├── README.md                           # Master Project Documentation & Evaluation Guide
-├── guide.md                            # Comprehensive Architectural Manual (English)
-├── notes.md                            # Complete Project Study Notes (Hinglish Edition)
-├── doubts.md                           # Detailed Technical Q&A Log
+├── documentation/
+│   ├── guide.md                        # Comprehensive Architectural Manual (English)
+│   ├── notes.md                        # Complete Project Study Notes (Hinglish Edition)
+│   ├── doubts.md                       # Detailed Technical Q&A Log
+│   └── WHAT_TO_DO.md                   # Problem Statement & Case Study Requirements
 ├── docker-compose.yml                  # Containerized Multi-Database Orchestration
 ├── requirements.txt                    # Python Dependencies (rich, tabulate, networkx, pytest)
 ├── run.bat                             # One-Click Launcher for Windows

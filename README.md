@@ -297,5 +297,6 @@ d:\ML_PROJECTS\DBMS_PROJECT\
 ## 👥 Contributors & Academic Credits
 - **Project**: Integrated Airline Reservation and Flight Management System (IARFMS)
 - **Group**: Group 11
+- **Names/UID**: Arnav Prajapati (24BAI70131) , Sahil Panwar (24BAI70017)
 - **Course**: Database Management Systems (Advanced Laboratory & Capstone)
 - **Academic Score Target**: 100 / 100

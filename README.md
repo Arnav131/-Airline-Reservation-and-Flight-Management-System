@@ -191,6 +191,9 @@ All test executions are captured as high-resolution screenshots in the [`testrun
 d:\ML_PROJECTS\DBMS_PROJECT\
 │
 ├── README.md                           # Master Project Documentation & Evaluation Guide
+├── Project_Report.pdf                  # Official 33-Page A4 Portrait Project Report (PDF)
+├── PROJECT_REPORT_DBMS.pptx            # Official 33-Slide A4 Portrait Project Report (PowerPoint)
+├── extracted_report_images/            # High-Resolution Architectural Diagrams & Flowcharts
 ├── documentation/
 │   ├── guide.md                        # Comprehensive Architectural Manual (English)
 │   ├── notes.md                        # Complete Project Study Notes (Hinglish Edition)
